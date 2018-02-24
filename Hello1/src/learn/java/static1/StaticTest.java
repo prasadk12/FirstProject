@@ -4,6 +4,7 @@ package learn.java.static1;
  * Java static property is shared to all objects.
    It makes your program memory efficient (i.e it saves memory).
    
+   
  * @author prasadk12
  *
  */
