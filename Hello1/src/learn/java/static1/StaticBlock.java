@@ -3,6 +3,7 @@ package learn.java.static1;
  * Java static block
     Is used to initialize the static data member.
     It is executed before main method at the time of classloading.
+    
  * @author prasadk12
  *
  */

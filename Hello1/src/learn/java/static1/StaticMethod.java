@@ -1,7 +1,7 @@
 package learn.java.static1;
 /**
  * Restrictions for static method
-There are two main restrictions for the static method. They are:
+   There are two main restrictions for the static method. They are:
 
     The static method can not use non static data member or call non-static method directly.
     this and super cannot be used in static context.
