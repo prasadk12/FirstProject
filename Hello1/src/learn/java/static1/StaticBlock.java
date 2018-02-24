@@ -10,6 +10,8 @@ package learn.java.static1;
  * 
  * 
  * 
+ * 
+ * 
  *
  */
 
@@ -18,4 +20,5 @@ public class StaticBlock {
 	public static void main(String args[]){  
 		System.out.println("Hello main");  
 	}  
+	
 }  
