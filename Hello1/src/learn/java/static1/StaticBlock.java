@@ -5,6 +5,7 @@ package learn.java.static1;
     It is executed before main method at the time of classloading.
     
  * @author prasadk12
+ * 
  *
  */
 
